@@ -1,0 +1,24 @@
+baseURL = 'http://javier.lopezmunoz.name/'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+title = 'Javier López'
+theme = "hermit"
+
+[author]
+  name = "Javier López Muñoz"
+
+[params]
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/javierlopezmunoz"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/JavierLopezMunoz"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/developez"
+
